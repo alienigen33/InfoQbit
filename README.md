@@ -37,12 +37,12 @@ Nos interesa conectar con quienes también sienten que el código puede ser una 
 una vía simbólica, una extensión del alma.
 
 📩 **Contacto:**  
-[📧 tu-email@ejemplo.com]  
-[🐙 github.com/tu_usuario]  
-[🌐 tu_web_o_red_social]
+[📧 alpha_music_x01@hotmail.com]  
+[🐙 github.com/alienigen33]  
+[🌐 @psico_consultores]
 
-No vendemos nada.  
-Sólo abrimos espacios donde las ideas se cruzan y mutan.
+ 
+Nos gusta crear espacios donde las ideas se cruzan y mutan.
 
 ---
 
