@@ -1,6 +1,6 @@
 <div>
 
-# 🌌 InfoQbit MultiversoII  
+# 🌌 InfoQbit - Territorio de Posibilidades  
 **Un terreno abierto para explorar lo simbólico, cuántico y artificial**
 
 Este proyecto no apunta a una meta, ni propone una solución.  
