@@ -195,3 +195,61 @@ El "Centinela Fractal" será una arquitectura integral que actuará como el guar
   ## **Conclusión**
   El "Centinela Fractal", con su sistema directo de comunicación 911, representa una solución revolucionaria para acompañar el desarrollo y la futura implementación de InfoQbit. Al combinar tecnología de vanguardia con un enfoque ético, proactivo y seguro, esta arquitectura no solo protegerá a InfoQbit de usos malintencionados, sino que también potenciará su impacto positivo en el mundo. Invitamos a las partes interesadas a colaborar en el desarrollo de esta solución para construir un futuro donde la IA avanzada sea sinónimo de seguridad, transparencia y responsabilidad.
 
+
+
+Versión en inglés 
+
+MIT License
+Copyright (c) 2025 Carlos Javier Avila and Bibiana Mariel Lopez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this project and its associated documentation files (the “Project”), to deal
+in the Project without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Project, and to permit persons to whom the Project is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Project.
+THE PROJECT IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT
+SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM,
+OUT OF OR IN CONNECTION WITH THE PROJECT OR THE USE OR OTHER DEALINGS
+IN THE
+PROJECT.
+
+
+Versión en español 
+
+Licencia MIT
+Copyright (c) 2025 Carlos Javier Ávila y Bibiana Mariel López
+
+Se concede permiso por la presente, sin cargo alguno, a cualquier persona que obtenga una copia.
+de este proyecto y sus archivos de documentación asociados (el “Proyecto”), para tratar
+en el Proyecto sin restricción alguna, incluyendo sin limitación alguna los derechos
+usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender
+copias del Proyecto, y permitir que las personas a quienes se dirige el Proyecto
+equipado para ello, sujeto a las siguientes condiciones:
+
+El aviso de derechos de autor anterior y este aviso de permiso se incluirán en todos
+copias o porciones sustanciales del Proyecto.
+
+EL PROYECTO SE PROPORCIONA “TAL CUAL”, SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITAS, INCLUYENDO, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD,
+IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO EL
+LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR NO SERÁN RESPONSABLES DE CUALQUIER RECLAMACIÓN, DAÑO U OTROS
+RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, EXTRACONTRACTUAL O DE OTRO MODO, QUE SURJA DE,
+FUERA DE O EN CONEXIÓN CON EL PROYECTO O EL USO U OTROS TRATOS EN EL
+PROYECTO.
+
+
+
+
+
+
