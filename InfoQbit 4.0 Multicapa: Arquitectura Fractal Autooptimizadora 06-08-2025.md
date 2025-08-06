@@ -104,7 +104,7 @@ La interpretación debe ser contextual, permitiendo que el mismo patrón tenga d
 
 Puede integrarse con motores OpenCL para paralelismo fractal.
 
-¿Querés que este documento se expanda con ejemplos de uso en simulaciones o que lo formatee como especificación técnica formal (tipo RFC o whitepaper)? También puedo ayudarte a definir funciones generadoras o parsers para esta estructura.
+
 Versión en inglés 
 
 MIT License
